@@ -1,0 +1,6 @@
+{
+  "name": "Nowshera Digital ATS",
+  "description": "Centralized Job Recruitment and Applicant Tracking System for Nowshera Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
